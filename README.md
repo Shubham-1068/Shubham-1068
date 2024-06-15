@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Shubham and I'm a Web developer, from India</h1>
+<h1 align="center">Hi 👋! My name is Shubham<br> I'm a Web developer, from India</h1>
 
 ###
 
@@ -38,6 +38,10 @@
 
 ###
 
+<h4 align="center">✺ I am passionate about Web development.<br><br>✺ Currently learning Javascript and React.<br><br>✺ Love to work on some exciting projects.</h4>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubham-1068&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Shubham-1068&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -46,7 +50,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shubham-1068/Shubham-1068/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<h3 align="center">Contact me :-</h3>
 
 ###
 
@@ -54,17 +60,27 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shubham-raj-13567a308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/shubham_raj1068?utm_source=qr&igsh=ZTVldGt4eXdyZWc2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
   </a>
   <a href="https://x.com/Shubham_1068?t=w1Sa7-Ia2MJAgvNXCYVmCg&s=08" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="90" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/shubham_1068" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="90" height="40" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<h3 align="center">Profile Views</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shubham-1068/count.svg?"  />
 </div>
 
 ###
