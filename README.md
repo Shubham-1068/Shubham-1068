@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋! My name is Shubham<br></h1> <h2 align="center">I'm a Web developer, from India</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=238FF7&center=true&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Shubham)](https://git.io/typing-svg)
+<h2 align="center">I'm a Web developer, from India</h2>
 
 ###
 
