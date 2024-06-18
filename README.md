@@ -1,7 +1,6 @@
-<h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=238FF7&center=true&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Shubham)](https://git.io/typing-svg)</h1>
-<h2 align="center">I'm a Web developer, from India</h2>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Shubham" alt="Typing SVG" /></h1>
 
-###
+<h2 align="center">I'm a Web developer, from India</h2>
 
 <h3 align="center">My Learnings</h3>
 
