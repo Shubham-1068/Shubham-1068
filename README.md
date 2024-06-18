@@ -1,8 +1,10 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Shubham" alt="Typing SVG" /></h1>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Shubham" alt="Typing SVG" /></div>
 
-<h2 align="center">I'm a Web developer, from India</h2>
+<h3 align="center">" I'm a Web developer, from India "</h3>
+<h2></h2>
 
 <h3 align="center">My Learnings</h3>
+<h3></h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
@@ -74,10 +76,12 @@
 </div>
 
 ###
+<br>
 
 <h3 align="center">Profile Views</h3>
 
 ###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Shubham-1068/count.svg?"  />
