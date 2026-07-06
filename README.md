@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- ANIMATED WELCOME BANNER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Shubham+👋;Web+Developer+%26+Problem+Solver;Creating+Digital+Experiences;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Shubham+👋;Full+Stack+Developer;Building+Digital+Experiences;Let's+build+something+amazing!" alt="Typing SVG" />
   
   <!-- ANIMATED WAVE -->
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
@@ -11,11 +11,11 @@
     <a href="https://www.linkedin.com/in/shubham-raj-13567a308" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://x.com/Shubham_1068" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <a href="mailto:shubhamraj1068@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://discordapp.com/users/shubham_1068" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <a href="https://www.shubhamdev.me" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
     </a>
   </p>
 </div>
@@ -28,14 +28,15 @@
 </div>
 
 <p align="center">
-  A passionate software developer focused on creating clean, efficient, and user-friendly applications.
-  I love solving complex problems and continuously learning new technologies to build innovative solutions.
+  Full Stack Developer who enjoys turning ideas into working products, from real time dashboards to 3D data visualizations.
+  Final year B.Tech Computer Science student, freelanced for an international client in Germany, and an open source
+  contributor to the official Node.js website. Currently open to Software Engineering Internship opportunities.
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Focus-Web_Development-3498db?style=flat-square&logo=html5&logoColor=white" alt="Web Development"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Learning-Cloud_Technologies-2ecc71?style=flat-square&logo=icloud&logoColor=white" alt="Learning"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Available-Freelance_Projects-e74c3c?style=flat-square&logo=upwork&logoColor=white" alt="Freelance"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-Full_Stack_Development-3498db?style=flat-square&logo=react&logoColor=white" alt="Full Stack Development"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Open_to-SWE_Internships-2ecc71?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Internships"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Open_Source-nodejs.org-e74c3c?style=flat-square&logo=node.js&logoColor=white" alt="Open Source"></a>
 </p>
 
 <!-- DIVIDER -->
@@ -81,9 +82,10 @@
 <div align="center">
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
 </div>
@@ -97,7 +99,10 @@
 <div align="center">
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
@@ -122,7 +127,7 @@
       <td width="50%">
         <h3 align="center">Frontend Development</h3>
         <p align="center">
-          Creating responsive and interactive user interfaces with modern frameworks and best practices
+          Building responsive and interactive user interfaces with React.js, Next.js, and Tailwind CSS
         </p>
         <p align="center">
           <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" height="60" />
@@ -132,7 +137,7 @@
       <td width="50%">
         <h3 align="center">Backend Development</h3>
         <p align="center">
-          Building robust and scalable server-side applications and APIs
+          Building robust and scalable server side applications and APIs with Node.js and Spring Boot
         </p>
         <p align="center">
           <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60" />
@@ -143,26 +148,48 @@
   </table>
 </div>
 
-<!-- GITHUB STATS SECTION -->
+<!-- MILESTONES SECTION -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" height="40" style="margin-right: 10px;"> 
-    GitHub Stats
+    <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="40"> 
+    Milestones
   </h2>
 </div>
 
+<p align="center">
+  🏆 Won HIT A THON, a hackathon at Haldia Institute of Technology<br>
+  🎯 Selected for Smart India Hackathon (SIH) 2024 and 2025<br>
+  📦 Merged PR #8750 into nodejs/nodejs.org, the official Node.js website, and contributed to Hacktoberfest<br>
+  🧩 Solved 100+ DSA problems on LeetCode<br>
+  📊 Built OpenSource 101, a platform using the Google Sheets API that automated ID card generation for 140+ registrations
+</p>
+
+<!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-1068&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Shubham-1068&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubham-1068&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Shubham-1068&theme=github-dark&hide_border=true"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham-1068&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubham-1068&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
+
+<br>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <a href="https://github.com/Shubham-1068/github-readme-activity-graph"><img alt="Shubham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-1068&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-1068&theme=github-dark&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </div>
 
 <br>
@@ -179,18 +206,19 @@
   <a href="https://www.linkedin.com/in/shubham-raj-13567a308" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/Shubham_1068" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://discordapp.com/users/shubham_1068" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo" />
+  <a href="mailto:shubhamraj1068@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="email logo" />
   </a>
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
 <div align="center">
   <h3>Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/Shubham-1068/count.svg" alt="Visitor Count" />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=Shubham-1068&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </div>
 
 <!-- FOOTER -->
